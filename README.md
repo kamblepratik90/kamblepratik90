@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, It's me Pratik! 
 
 <!--
 **kamblepratik90/kamblepratik90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://app.daily.dev/pratikk"><img src="https://api.daily.dev/devcards/55775280320e4a0c920072cf85c5afb8.png?r=oen" width="400" alt="Pratik Kamble's Dev Card"/></a>
